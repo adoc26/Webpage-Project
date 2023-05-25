@@ -116,3 +116,24 @@
     transform: scale(1.4);
     transition: 0.5 ease-in-out;
 }
+
+.shop_card:hover:nth-child(2) {
+    background-image: url('serghei-savchiuc-tejecyNUUhs-unsplash.jpg');
+    background-size: 100%;
+    transform: scale(1.4);
+    transition: 0.5 ease-in-out;
+}
+
+.shop_card:hover:nth-child(3) {
+    background-image: url('ellie-ellien-04yMqTmUeHQ-unsplash.jpg');
+    background-size: 100%;
+    transform: scale(1.4);
+    transition: 0.5 ease-in-out;
+}
+
+.shop_card:hover:nth-child(4) {
+    background-image: url('heather-barnes-_TN1m5R1pFI-unsplash.jpg');
+    background-size: 100%;
+    transform: scale(1.4);
+    transition: 0.5 ease-in-out;
+}
