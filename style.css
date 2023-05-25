@@ -73,3 +73,39 @@
 .img-fluid {
     border-radius: 10%;
 }
+
+/* Shop*/
+
+.shop {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding-bottom: 10rem;
+}
+
+.shop__wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.shop_card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 0 50px 50px 50px;
+    height: 300px;
+    width: 300px;
+    border: none;
+    border-radius: 2%;
+    background: linear-gradient(0.40turn, #e5b35e, #75bdca, #e9b29e);
+    transition: 1s ease-in-out;
+}
+
+.shop_card p {
+    margin: 10px;
+    padding-bottom: 20px;
+}
