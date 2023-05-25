@@ -115,6 +115,8 @@
     background-size: 100%;
     transform: scale(1.4);
     transition: 0.5 ease-in-out;
+    font-size: 0;
+    z-index: 1;
 }
 
 .shop_card:hover:nth-child(2) {
@@ -122,6 +124,8 @@
     background-size: 100%;
     transform: scale(1.4);
     transition: 0.5 ease-in-out;
+    font-size: 0;
+    z-index: 1;
 }
 
 .shop_card:hover:nth-child(3) {
@@ -129,6 +133,8 @@
     background-size: 100%;
     transform: scale(1.4);
     transition: 0.5 ease-in-out;
+    font-size: 0;
+    z-index: 1;
 }
 
 .shop_card:hover:nth-child(4) {
@@ -136,4 +142,10 @@
     background-size: 100%;
     transform: scale(1.4);
     transition: 0.5 ease-in-out;
+    font-size: 0;
+    z-index: 1;
+}
+
+.shop.btn:nth-child(4) {
+    padding-top: 10;
 }
