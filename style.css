@@ -149,3 +149,25 @@
 .shop.btn:nth-child(4) {
     padding-top: 10;
 }
+
+@media screen and (max-width: 1700px) {
+    .shop__wrapper {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .shop_card {
+        width: 325px;
+        height: 325px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .shop__wrapper {
+        grid-template-columns: 1fr;
+    }
+
+    .shop_card {
+        width: 320px;
+        height: 320px;
+    }
+}
