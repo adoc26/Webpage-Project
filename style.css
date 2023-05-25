@@ -20,3 +20,15 @@
 .display-5 {
     text-transform: uppercase;
 }
+
+/* Products */
+
+.wikilink {
+    text-decoration: underline;
+    color: white;
+}
+
+.wikilink:hover {
+    color: #e5b35e;
+    text-decoration: none;
+}
