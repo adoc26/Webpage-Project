@@ -109,3 +109,10 @@
     margin: 10px;
     padding-bottom: 20px;
 }
+
+.shop_card:hover:nth-child(1) {
+    background-image: url('melissia-ohol-7dhnDG46L2E-unsplash.jpg');
+    background-size: 100%;
+    transform: scale(1.4);
+    transition: 0.5 ease-in-out;
+}
