@@ -32,3 +32,16 @@
     color: #e5b35e;
     text-decoration: none;
 }
+
+.productstitle {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.productsp {
+    padding-bottom: 20px;
+}
+
+.img-fluid {
+    border-radius: 10%;
+}
