@@ -12,3 +12,11 @@
 .heroesimage {
     border-radius: 10%;
 }
+
+.importanttitle {
+    text-transform: uppercase;
+}
+
+.display-5 {
+    text-transform: uppercase;
+}
