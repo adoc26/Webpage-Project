@@ -3,4 +3,12 @@
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
-} 
+}
+
+.navbarimage {
+    border-radius: 10%;
+}
+
+.heroesimage {
+    border-radius: 10%;
+}
